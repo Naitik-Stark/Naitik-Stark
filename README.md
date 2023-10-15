@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Naitik-Stark
-- 🧑‍💻 I’m Frontend Developer & Designer.
-- 💹 An SEO expert.
-- 🤵 CEO of Stark Industries India & its products.
-- 💻 A blogger.
+- 🧑‍💻 Serial Entrepreneur
+- 🤵 Founder & CEO Naitik Group Of Industries.
 
-
- 🏢 Company: https://starkindustriesindia.tech
+ 🌐 Portfolio: https://naitikstark.info
+ 🏢 Company: https://naitikgroupofindustries.tech/
  📫 Contact: naitikstark@gmail.com
 
-Thanks for reading me🤗🤗
