@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naitik-Stark
 - 🧑‍💻 Serial Entrepreneur
-- 🤵 Founder & CEO Naitik Group Of Industries.
+- 🤵 Founder & CEO Naitik Ventures Pvt Ltd.
 
  🌐 Portfolio: https://naitikstark.tech
  🏢 Company: https://naitikgroupofindustries.tech/
